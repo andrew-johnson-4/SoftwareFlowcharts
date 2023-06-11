@@ -1,0 +1,6 @@
+windows:
+  shell: "npm install --save-dev parcel"
+linux:
+  shell: "npm install --save-dev parcel"
+macos:
+  shell: "npm install --save-dev parcel"
