@@ -23,3 +23,8 @@ macos:
 Some installation steps might not be terminal commands.
 For example, an installation step might include "click on this button" or "fill in this text field".
 These steps need a new standard, so we will throw them into a yaml file.
+
+## Limitations
+
+If something is wrong we welcome reports, however, due to procedural limitations we won't be accepting pull requests.
+This repo is intended to be automatically generated as a build artifact linking backend scrapers to frontend documentation.
