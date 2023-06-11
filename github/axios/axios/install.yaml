@@ -1,0 +1,6 @@
+windows:
+  shell: "npm install axios"
+linux:
+  shell: "npm install axios"
+macos:
+  shell: "npm install axios"
