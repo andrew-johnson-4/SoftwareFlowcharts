@@ -1,0 +1,6 @@
+windows:
+  shell: "pip install -U openai-whisper"
+linux:
+  shell: "pip install -U openai-whisper"
+macos:
+  shell: "pip install -U openai-whisper"
