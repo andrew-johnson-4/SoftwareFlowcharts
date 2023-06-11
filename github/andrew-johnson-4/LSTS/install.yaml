@@ -1,0 +1,7 @@
+windows:
+  shell: "cargo install lsts"
+linux:
+  shell: "cargo install lsts"
+osx:
+  shell: "cargo install lsts"
+    
