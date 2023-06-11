@@ -1,0 +1,6 @@
+windows:
+  shell: "pip install transformers"
+linux:
+  shell: "pip install transformers"
+macos:
+  shell: "pip install transformers"
