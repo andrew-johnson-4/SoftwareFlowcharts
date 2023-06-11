@@ -17,3 +17,9 @@ linux:
 macos:
   shell: "cargo install lsts"
 ```
+
+## What about Makefiles etc?
+
+Some installation steps might not be terminal commands.
+For example, an installation step might include "click on this button" or "fill in this text field".
+These steps need a new standard, so we will throw them into a yaml file.
