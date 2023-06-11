@@ -14,6 +14,6 @@ windows:
   shell: "cargo install lsts"
 linux:
   shell: "cargo install lsts"
-osx:
+macos:
   shell: "cargo install lsts"
 ```
