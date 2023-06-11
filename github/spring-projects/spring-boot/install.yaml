@@ -1,0 +1,19 @@
+windows:
+  prereq: "Java 17"
+  prereq: "Apache Maven 3.6.3"
+  prereq: "Gradle 8.x"
+  download-latest: "https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-cli/3.2.0-SNAPSHOT/"
+  install.txt: "https://raw.githubusercontent.com/spring-projects/spring-boot/main/spring-boot-project/spring-boot-tools/spring-boot-cli/src/main/content/INSTALL.txt"
+linux:
+  prereq: "Java 17"
+  prereq: "Apache Maven 3.6.3"
+  prereq: "Gradle 8.x"
+  download-latest: "https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-cli/3.2.0-SNAPSHOT/"
+  install.txt: "https://raw.githubusercontent.com/spring-projects/spring-boot/main/spring-boot-project/spring-boot-tools/spring-boot-cli/src/main/content/INSTALL.txt"
+macos:
+  prereq: "Java 17"
+  prereq: "Apache Maven 3.6.3"
+  prereq: "Gradle 8.x"
+  download-latest: "https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-cli/3.2.0-SNAPSHOT/"
+  install.txt: "https://raw.githubusercontent.com/spring-projects/spring-boot/main/spring-boot-project/spring-boot-tools/spring-boot-cli/src/main/content/INSTALL.txt"
+  
