@@ -28,3 +28,9 @@ These steps need a new standard, so we will throw them into a yaml file.
 
 If something is wrong we welcome reports. However, due to procedural limitations we won't be accepting pull requests.
 This repo is intended to be automatically generated as a build artifact linking backend scrapers to frontend documentation.
+
+## Sources & Copyright
+
+All flowcharts in this project are built from official project documentations.
+If you believe that a source is not cited correctly or that something is compiled in violation of a copyright terms,
+please open an issue here and we will try to resolve the issue as quickly as possible.
