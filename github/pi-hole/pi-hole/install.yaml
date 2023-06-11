@@ -1,0 +1,3 @@
+linux:
+  shell: "wget -O basic-install.sh https://install.pi-hole.net"
+  shell: "sudo bash basic-install.sh"
