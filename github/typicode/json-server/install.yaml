@@ -1,0 +1,6 @@
+windows:
+  shell: "npm install -g json-server"
+linux:
+  shell: "npm install -g json-server"
+macos:
+  shell: "npm install -g json-server"
