@@ -1,0 +1,4 @@
+windows:
+  download-latest: "https://github.com/iperov/DeepFaceLab"
+linux:
+  download-latest: "https://github.com/iperov/DeepFaceLab"
