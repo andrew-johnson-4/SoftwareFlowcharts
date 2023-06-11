@@ -1,0 +1,6 @@
+windows:
+  shell: "go get -u github.com/gin-gonic/gin"
+linux:
+  shell: "go get -u github.com/gin-gonic/gin"
+macos:
+  shell: "go get -u github.com/gin-gonic/gin"
