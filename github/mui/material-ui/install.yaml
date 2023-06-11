@@ -1,0 +1,6 @@
+windows:
+  shell: "npm install @mui/material @emotion/react @emotion/styled"
+linux:
+  shell: "npm install @mui/material @emotion/react @emotion/styled"
+macos:
+  shell: "npm install @mui/material @emotion/react @emotion/styled"
