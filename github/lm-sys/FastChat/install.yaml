@@ -1,0 +1,6 @@
+windows:
+  shell: "pip3 install fschat"
+linux:
+  shell: "pip3 install fschat"
+macos:
+  shell: "pip3 install fschat"
