@@ -1,0 +1,6 @@
+windows:
+  download-latest: "https://opencv.org/releases/"
+linux:
+  download-latest: "https://opencv.org/releases/"
+macos:
+  download-latest: "https://opencv.org/releases/"
