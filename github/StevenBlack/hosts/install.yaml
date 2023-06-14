@@ -1,0 +1,6 @@
+windows:
+  download-latest: "https://github.com/StevenBlack/hosts/releases"
+linux:
+  download-latest: "https://github.com/StevenBlack/hosts/releases"
+macos:
+  download-latest: "https://github.com/StevenBlack/hosts/releases"
