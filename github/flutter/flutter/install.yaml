@@ -1,0 +1,6 @@
+windows:
+  install.txt: "https://docs.flutter.dev/get-started/install/windows"
+linux:
+  install.txt: "https://docs.flutter.dev/get-started/install/linux"
+macos:
+  install.txt: "https://docs.flutter.dev/get-started/install/macos"
