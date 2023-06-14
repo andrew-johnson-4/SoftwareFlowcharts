@@ -1,0 +1,12 @@
+windows:
+  install.txt: "https://developers.forem.com/getting-started/installation/windows"
+linux:
+  install.txt: "https://developers.forem.com/getting-started/installation/linux"
+macos:
+  install.txt: "https://developers.forem.com/getting-started/installation/mac"
+gitpod:
+  install.txt: "https://developers.forem.com/getting-started/installation/gitpod"
+docker:
+  install.txt: "https://developers.forem.com/getting-started/installation/containers"
+podman:
+  install.txt: "https://developers.forem.com/getting-started/installation/containers"
