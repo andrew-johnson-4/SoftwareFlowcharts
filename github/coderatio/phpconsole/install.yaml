@@ -1,0 +1,6 @@
+windows:
+  download-latest: "https://github.com/coderatio/phpconsole/releases/"
+linux:
+  download-latest: "https://github.com/coderatio/phpconsole/releases/"
+macos:
+  download-latest: "https://github.com/coderatio/phpconsole/releases/"
