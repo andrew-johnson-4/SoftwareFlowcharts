@@ -2,6 +2,15 @@
 
 How to do X in Y. This is middleware of the [LibExplainer.com](https://www.libexplainer.com) project.
 
+LibExplainer.com is a site built using fine-tuning of LLMs to create software installation instructions.
+1) Scrape text installation instructions from public repos
+2) Ask LLM to summarize installation instructions into YAML format
+3) Generate procedural flowchart from YAML file
+4) verify correctness of flowchart with automated QA [not implemented]
+
+Be warned, flowcharts may be outdated, incomplete, or just plain broken.
+This project is in active development.
+
 ## Format
 
 Currently efforts are being made to document installation of a variety of projects on GitHub.
