@@ -6,7 +6,7 @@ LibExplainer.com is a site built using fine-tuning of LLMs to create software in
 1) Scrape text installation instructions from public repos
 2) Ask LLM to summarize installation instructions into YAML format
 3) Generate procedural flowchart from YAML file
-4) verify correctness of flowchart with automated QA [not implemented]
+4) Verify correctness of flowchart with automated QA [not implemented]
 
 Be warned, flowcharts may be outdated, incomplete, or just plain broken.
 This project is in active development.
